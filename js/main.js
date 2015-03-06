@@ -21,7 +21,7 @@ $( document ).ready( function () {
 			pauseButton.text('Pause');
 		} else {
 			vid[0].pause();
-			pauseButton.text ('Paused');
+			pauseButton.text ('Play');
 		}
 	} )
 
